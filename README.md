@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/NiU9MQUOSaOPe/giphy.gif" width="100"/>
 </div>
 
-:woman_technologist: I am studying at the author's course of Vadim Ksendzov
+:woman_technologist: 
 - 👀 I’m interested in testing
 - 🌱 I’m currently learning on Vadim Ksendzov course
 - 💞️ I'm looking for a job in passing
 - 📫 How to reach me in telegram: @Tashaair
- -  [LinkedIn]([https://www.linkedin.com/in/amiram-yalaltdinov-7375a8236/](https://www.linkedin.com/in/natalia-kireeva-617686237/)
+ -  [LinkedIn](https://www.linkedin.com/in/natalia-kireeva-617686237/)
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
